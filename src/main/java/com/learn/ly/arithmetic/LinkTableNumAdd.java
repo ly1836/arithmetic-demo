@@ -105,7 +105,7 @@ public class LinkTableNumAdd {
             if (l2 != null)
                 l2 = l2.nextNode;
 
-            //如果两个链表都为空，而且上一个节点想加和>10进一位的话，新建一个节点
+            //如果两个链表都为空，而且上一个节点相加和>10进一位的话，新建一个节点
             if(l1 == null && l2 == null && moveUp == 1){
                 ListNode newNode = new ListNode(1);
                 constNode.nextNode = newNode;
