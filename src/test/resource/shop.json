@@ -1,0 +1,3561 @@
+{
+    "retcode":"0",
+    "errmsg":"",
+    "data": {
+    "searchm":{
+        "Head":{
+            "Query":{
+                "HcCid1s": "1315;1318;",
+                "HcCid2s": "1342;12102;1343;",
+                "HcCid3s": "9730;9763;9764;9732;12001;9712;",
+                "Mtest": "wx_d3_new,new_arch_fd_feature_log,shop_entrance_t3,~",
+                "UiTag": "0",
+                "longType" : "",
+                "showArticleTab" : "0",
+                "showShopTab": "0",
+                "showO2OStoreTab": "0",
+                "shopShowCarousel": "",
+                "isRequery " : "0",
+                "isWordSearch" : "false",
+                "requerySearch " : "0",
+                "WordSearchInfo":{
+                    "showWordOne": "",
+                    "showWordOther": ""
+                },
+                "QueryProcessor":{
+                    "ExpressionKey": "",
+                    "ExpandQueryStatus": "",
+                    "ExpandQuery": "",
+                    "IsSpecialStock": "0",
+                    "ShowHiddenInfo": "0"
+                },
+                "Sort":{
+                    "ACT": "72,75,",
+                    "UPF": "0"
+                },
+                "FiltType":[
+                
+                {
+                    "condition":"l0m0",
+                    "name":"isdeliverhome"
+                },
+                
+                {
+                    "condition":"1",
+                    "name":"redisstore"
+                },
+                
+                {
+                    "condition":"",
+                    "name":"wx_entrance"
+                },
+                
+                {
+                    "condition":"1,72,2819,0",
+                    "name":"locationid"
+                }
+                
+                ]
+            },
+            "Summary": {
+                "OrgSkuCount": "853821",
+                "Page": {
+                    "PageCount": "752",
+                    "PageIndex": "10",
+                    "PageSize": "10"
+                },
+                "ResultCount": "7520",
+                "ResultCut": "1"
+            }
+        },
+        "ObjA_Price":[
+        
+        ],
+        "Interval_Price": [
+        
+        ],
+        "ObjB_OmsAttrCollection":{
+            "package" : {
+                "isbook" : "0",
+                "value" : []
+            },
+            "packstate" : [],
+            "publishers" : {
+                "pinyin" : [],
+                "value" : []
+            },
+            "dregion": [],
+            "media": []
+        },
+        "ObjB_TextCollection":{
+            "brand":{
+                "id":"",
+                "pinyin":"",
+                "value":"",
+                "logourl":"",
+                "sortorder":""
+            },
+            "exp_color":{
+                "sortorder":"",
+                "value":""
+            },
+            "exp_size":{
+                "sortorder":"",
+                "value":""
+            }
+        },
+        "ObjExtAttrCollection": [
+        
+        ],
+        "ObjC_NumberCollection" : {
+            "vender_id" : "0",
+            "shop_list": [
+            
+            ]
+        },
+        "ObjExist_Statistic" : {
+            "Delivertime" : [
+            
+            ],
+            "HasPGware": "",
+            "HasSecondware": "",
+            "HasFZXPware": "",
+            "HasVIPware": "",
+            "HasPLUSware": "",
+            "HasJXDSware": ""
+        },
+        "ObjCollection":{
+            "catid": [
+            
+            {
+                "Classification": "9730",
+                "Count": "15398",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "夹克"
+            },
+            
+            {
+                "Classification": "9763",
+                "Count": "5542",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "夹克风衣"
+            },
+            
+            {
+                "Classification": "9740",
+                "Count": "107",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "中老年男装"
+            },
+            
+            {
+                "Classification": "9712",
+                "Count": "1748",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "短外套"
+            },
+            
+            {
+                "Classification": "9764",
+                "Count": "235",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "卫衣套头衫"
+            },
+            
+            {
+                "Classification": "12001",
+                "Count": "278",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "真皮皮衣"
+            },
+            
+            {
+                "Classification": "9724",
+                "Count": "84",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "棉服"
+            },
+            
+            {
+                "Classification": "9732",
+                "Count": "193",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "卫衣"
+            },
+            
+            {
+                "Classification": "9729",
+                "Count": "18",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "毛呢大衣"
+            },
+            
+            {
+                "Classification": "9188",
+                "Count": "462",
+                "FClassification": "2615",
+                "Field": "catid",
+                "Name": "服饰"
+            },
+            
+            {
+                "Classification": "9765",
+                "Count": "9",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "T恤"
+            },
+            
+            {
+                "Classification": "9728",
+                "Count": "311",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "风衣"
+            },
+            
+            {
+                "Classification": "15706",
+                "Count": "7",
+                "FClassification": "15700",
+                "Field": "catid",
+                "Name": "瑜伽服外套"
+            },
+            
+            {
+                "Classification": "12131",
+                "Count": "500",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "户外风衣"
+            },
+            
+            {
+                "Classification": "14936",
+                "Count": "981",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "外套大衣"
+            },
+            
+            {
+                "Classification": "9767",
+                "Count": "585",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "套装"
+            },
+            
+            {
+                "Classification": "9721",
+                "Count": "504",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "中老年女装"
+            },
+            
+            {
+                "Classification": "12123",
+                "Count": "464",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "冲锋衣裤"
+            },
+            
+            {
+                "Classification": "12133",
+                "Count": "249",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "军迷服饰"
+            },
+            
+            {
+                "Classification": "12129",
+                "Count": "185",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "软壳衣裤"
+            },
+            
+            {
+                "Classification": "12127",
+                "Count": "164",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "休闲衣裤"
+            },
+            
+            {
+                "Classification": "9741",
+                "Count": "145",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "唐装汉服"
+            },
+            
+            {
+                "Classification": "12104",
+                "Count": "140",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "羽绒服"
+            },
+            
+            {
+                "Classification": "9739",
+                "Count": "139",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "大码男装"
+            },
+            
+            {
+                "Classification": "16918",
+                "Count": "117",
+                "FClassification": "6747",
+                "Field": "catid",
+                "Name": "摩托车骑行服"
+            },
+            
+            {
+                "Classification": "9762",
+                "Count": "102",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "棉服"
+            },
+            
+            {
+                "Classification": "9731",
+                "Count": "99",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "西服"
+            },
+            
+            {
+                "Classification": "15940",
+                "Count": "94",
+                "FClassification": "15907",
+                "Field": "catid",
+                "Name": "皮具护理品"
+            },
+            
+            {
+                "Classification": "1348",
+                "Count": "87",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "衬衫"
+            },
+            
+            {
+                "Classification": "9725",
+                "Count": "87",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "仿皮皮衣"
+            },
+            
+            {
+                "Classification": "9734",
+                "Count": "86",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "马甲背心"
+            },
+            
+            {
+                "Classification": "9742",
+                "Count": "78",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "工装"
+            },
+            
+            {
+                "Classification": "12128",
+                "Count": "77",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "抓绒衣裤"
+            },
+            
+            {
+                "Classification": "9708",
+                "Count": "74",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "风衣"
+            },
+            
+            {
+                "Classification": "11222",
+                "Count": "59",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "套装"
+            },
+            
+            {
+                "Classification": "11998",
+                "Count": "53",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "仿皮皮衣"
+            },
+            
+            {
+                "Classification": "12126",
+                "Count": "49",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "羽绒服棉服"
+            },
+            
+            {
+                "Classification": "9707",
+                "Count": "42",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "真皮皮衣"
+            },
+            
+            {
+                "Classification": "3982",
+                "Count": "34",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "羽绒服"
+            },
+            
+            {
+                "Classification": "12120",
+                "Count": "32",
+                "FClassification": "12115",
+                "Field": "catid",
+                "Name": "骑行服"
+            },
+            
+            {
+                "Classification": "15751",
+                "Count": "32",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "高尔夫夹克风衣"
+            },
+            
+            {
+                "Classification": "21444",
+                "Count": "30",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "男装套装"
+            },
+            
+            {
+                "Classification": "1349",
+                "Count": "27",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "T恤"
+            },
+            
+            {
+                "Classification": "9722",
+                "Count": "21",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "大码女装"
+            },
+            
+            {
+                "Classification": "9714",
+                "Count": "17",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "马甲"
+            },
+            
+            {
+                "Classification": "13904",
+                "Count": "17",
+                "FClassification": "12147",
+                "Field": "catid",
+                "Name": "钓鱼服饰"
+            },
+            
+            {
+                "Classification": "1350",
+                "Count": "16",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "针织衫"
+            },
+            
+            {
+                "Classification": "9924",
+                "Count": "16",
+                "FClassification": "9858",
+                "Field": "catid",
+                "Name": "劳防用品"
+            },
+            
+            {
+                "Classification": "11226",
+                "Count": "15",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "羽绒服"
+            },
+            
+            {
+                "Classification": "12107",
+                "Count": "13",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "健身服"
+            },
+            
+            {
+                "Classification": "16164",
+                "Count": "13",
+                "FClassification": "15429",
+                "Field": "catid",
+                "Name": "二手夹克"
+            },
+            
+            {
+                "Classification": "11843",
+                "Count": "12",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "户外运动服"
+            },
+            
+            {
+                "Classification": "1658",
+                "Count": "11",
+                "FClassification": "1624",
+                "Field": "catid",
+                "Name": "缝纫机"
+            },
+            
+            {
+                "Classification": "9705",
+                "Count": "11",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "棉服"
+            },
+            
+            {
+                "Classification": "12005",
+                "Count": "10",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "设计师潮牌"
+            },
+            
+            {
+                "Classification": "9710",
+                "Count": "9",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "卫衣"
+            },
+            
+            {
+                "Classification": "14931",
+                "Count": "9",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "棉服"
+            },
+            
+            {
+                "Classification": "9711",
+                "Count": "8",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "小西装"
+            },
+            
+            {
+                "Classification": "9985",
+                "Count": "8",
+                "FClassification": "6747",
+                "Field": "catid",
+                "Name": "其它摩托车装备"
+            },
+            
+            {
+                "Classification": "12124",
+                "Count": "7",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "速干衣裤"
+            },
+            
+            {
+                "Classification": "14937",
+                "Count": "7",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "马甲"
+            },
+            
+            {
+                "Classification": "17343",
+                "Count": "7",
+                "FClassification": "17342",
+                "Field": "catid",
+                "Name": "滑雪服"
+            },
+            
+            {
+                "Classification": "3983",
+                "Count": "6",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "羽绒服"
+            },
+            
+            {
+                "Classification": "15752",
+                "Count": "6",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "高尔夫卫衣套头衫"
+            },
+            
+            {
+                "Classification": "1354",
+                "Count": "5",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "衬衫"
+            },
+            
+            {
+                "Classification": "9713",
+                "Count": "5",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "雪纺衫"
+            },
+            
+            {
+                "Classification": "9736",
+                "Count": "5",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "休闲裤"
+            },
+            
+            {
+                "Classification": "11223",
+                "Count": "5",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "T恤"
+            },
+            
+            {
+                "Classification": "12038",
+                "Count": "5",
+                "FClassification": "1346",
+                "Field": "catid",
+                "Name": "毛线布面料"
+            },
+            
+            {
+                "Classification": "15750",
+                "Count": "5",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "高尔夫T恤"
+            },
+            
+            {
+                "Classification": "1356",
+                "Count": "4",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "针织衫"
+            },
+            
+            {
+                "Classification": "1660",
+                "Count": "4",
+                "FClassification": "1624",
+                "Field": "catid",
+                "Name": "洗晒熨烫"
+            },
+            
+            {
+                "Classification": "7030",
+                "Count": "4",
+                "FClassification": "7000",
+                "Field": "catid",
+                "Name": "宠物鞋服"
+            },
+            
+            {
+                "Classification": "12000",
+                "Count": "4",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "设计师潮牌"
+            },
+            
+            {
+                "Classification": "12130",
+                "Count": "4",
+                "FClassification": "2628",
+                "Field": "catid",
+                "Name": "T恤"
+            },
+            
+            {
+                "Classification": "15867",
+                "Count": "4",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "羽毛球服"
+            },
+            
+            {
+                "Classification": "17287",
+                "Count": "4",
+                "FClassification": "15250",
+                "Field": "catid",
+                "Name": "布料"
+            },
+            
+            {
+                "Classification": "9766",
+                "Count": "3",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "运动裤"
+            },
+            
+            {
+                "Classification": "12021",
+                "Count": "3",
+                "FClassification": "1346",
+                "Field": "catid",
+                "Name": "女士丝巾围巾披肩"
+            },
+            
+            {
+                "Classification": "15704",
+                "Count": "3",
+                "FClassification": "15700",
+                "Field": "catid",
+                "Name": "瑜伽服上衣"
+            },
+            
+            {
+                "Classification": "15877",
+                "Count": "3",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "网球服"
+            },
+            
+            {
+                "Classification": "1355",
+                "Count": "2",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "T恤"
+            },
+            
+            {
+                "Classification": "2691",
+                "Count": "2",
+                "FClassification": "1462",
+                "Field": "catid",
+                "Name": "旅行装备"
+            },
+            
+            {
+                "Classification": "4937",
+                "Count": "2",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "亲子装"
+            },
+            
+            {
+                "Classification": "4999",
+                "Count": "2",
+                "FClassification": "4997",
+                "Field": "catid",
+                "Name": "防辐射服"
+            },
+            
+            {
+                "Classification": "6254",
+                "Count": "2",
+                "FClassification": "6236",
+                "Field": "catid",
+                "Name": "动物玩偶公仔"
+            },
+            
+            {
+                "Classification": "9717",
+                "Count": "2",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "休闲裤"
+            },
+            
+            {
+                "Classification": "9735",
+                "Count": "2",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "牛仔裤"
+            },
+            
+            {
+                "Classification": "9790",
+                "Count": "2",
+                "FClassification": "1346",
+                "Field": "catid",
+                "Name": "太阳镜"
+            },
+            
+            {
+                "Classification": "11993",
+                "Count": "2",
+                "FClassification": "1343",
+                "Field": "catid",
+                "Name": "皮草"
+            },
+            
+            {
+                "Classification": "12108",
+                "Count": "2",
+                "FClassification": "12102",
+                "Field": "catid",
+                "Name": "运动背心"
+            },
+            
+            {
+                "Classification": "12515",
+                "Count": "2",
+                "FClassification": "12480",
+                "Field": "catid",
+                "Name": "花卉"
+            },
+            
+            {
+                "Classification": "13784",
+                "Count": "2",
+                "FClassification": "13780",
+                "Field": "catid",
+                "Name": "防尘罩"
+            },
+            
+            {
+                "Classification": "14105",
+                "Count": "2",
+                "FClassification": "14099",
+                "Field": "catid",
+                "Name": "身体防护"
+            },
+            
+            {
+                "Classification": "15284",
+                "Count": "2",
+                "FClassification": "15250",
+                "Field": "catid",
+                "Name": "桌布罩件"
+            },
+            
+            {
+                "Classification": "15702",
+                "Count": "2",
+                "FClassification": "15700",
+                "Field": "catid",
+                "Name": "瑜伽服套装"
+            },
+            
+            {
+                "Classification": "15754",
+                "Count": "2",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "更多高尔夫服装"
+            },
+            
+            {
+                "Classification": "17048",
+                "Count": "2",
+                "FClassification": "17040",
+                "Field": "catid",
+                "Name": "花样滑冰服"
+            },
+            
+            {
+                "Classification": "21732",
+                "Count": "2",
+                "FClassification": "1624",
+                "Field": "catid",
+                "Name": "缝纫针织材料"
+            },
+            
+            {
+                "Classification": "21854",
+                "Count": "2",
+                "FClassification": "21810",
+                "Field": "catid",
+                "Name": "软弹枪"
+            },
+            
+            {
+                "Classification": "866",
+                "Count": "1",
+                "FClassification": "830",
+                "Field": "catid",
+                "Name": "手机壳保护套"
+            },
+            
+            {
+                "Classification": "1371",
+                "Count": "1",
+                "FClassification": "1345",
+                "Field": "catid",
+                "Name": "睡衣家居服"
+            },
+            
+            {
+                "Classification": "1472",
+                "Count": "1",
+                "FClassification": "1462",
+                "Field": "catid",
+                "Name": "背包"
+            },
+            
+            {
+                "Classification": "1479",
+                "Count": "1",
+                "FClassification": "1462",
+                "Field": "catid",
+                "Name": "户外工具"
+            },
+            
+            {
+                "Classification": "1697",
+                "Count": "1",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "足球"
+            },
+            
+            {
+                "Classification": "2629",
+                "Count": "1",
+                "FClassification": "1462",
+                "Field": "catid",
+                "Name": "户外配饰"
+            },
+            
+            {
+                "Classification": "3327",
+                "Count": "1",
+                "FClassification": "3259",
+                "Field": "catid",
+                "Name": "作品集"
+            },
+            
+            {
+                "Classification": "3379",
+                "Count": "1",
+                "FClassification": "3262",
+                "Field": "catid",
+                "Name": "设计"
+            },
+            
+            {
+                "Classification": "3709",
+                "Count": "1",
+                "FClassification": "3282",
+                "Field": "catid",
+                "Name": "轻工业、手工业"
+            },
+            
+            {
+                "Classification": "3998",
+                "Count": "1",
+                "FClassification": "2577",
+                "Field": "catid",
+                "Name": "休闲运动包"
+            },
+            
+            {
+                "Classification": "4761",
+                "Count": "1",
+                "FClassification": "3263",
+                "Field": "catid",
+                "Name": "绘本"
+            },
+            
+            {
+                "Classification": "6257",
+                "Count": "1",
+                "FClassification": "6237",
+                "Field": "catid",
+                "Name": "换装娃娃"
+            },
+            
+            {
+                "Classification": "6258",
+                "Count": "1",
+                "FClassification": "6237",
+                "Field": "catid",
+                "Name": "卡通娃娃"
+            },
+            
+            {
+                "Classification": "6273",
+                "Count": "1",
+                "FClassification": "6264",
+                "Field": "catid",
+                "Name": "卡通周边"
+            },
+            
+            {
+                "Classification": "6913",
+                "Count": "1",
+                "FClassification": "11730",
+                "Field": "catid",
+                "Name": "鞋配件"
+            },
+            
+            {
+                "Classification": "9190",
+                "Count": "1",
+                "FClassification": "2615",
+                "Field": "catid",
+                "Name": "太阳镜眼镜框"
+            },
+            
+            {
+                "Classification": "9768",
+                "Count": "1",
+                "FClassification": "12099",
+                "Field": "catid",
+                "Name": "运动包"
+            },
+            
+            {
+                "Classification": "9794",
+                "Count": "1",
+                "FClassification": "1346",
+                "Field": "catid",
+                "Name": "遮阳帽"
+            },
+            
+            {
+                "Classification": "9920",
+                "Count": "1",
+                "FClassification": "9858",
+                "Field": "catid",
+                "Name": "家用五金"
+            },
+            
+            {
+                "Classification": "9921",
+                "Count": "1",
+                "FClassification": "9858",
+                "Field": "catid",
+                "Name": "手动工具"
+            },
+            
+            {
+                "Classification": "9974",
+                "Count": "1",
+                "FClassification": "6743",
+                "Field": "catid",
+                "Name": "补漆笔"
+            },
+            
+            {
+                "Classification": "11224",
+                "Count": "1",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "裤子"
+            },
+            
+            {
+                "Classification": "11228",
+                "Count": "1",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "礼服演出服"
+            },
+            
+            {
+                "Classification": "11889",
+                "Count": "1",
+                "FClassification": "6745",
+                "Field": "catid",
+                "Name": "其它功能小件"
+            },
+            
+            {
+                "Classification": "11935",
+                "Count": "1",
+                "FClassification": "2615",
+                "Field": "catid",
+                "Name": "饰品"
+            },
+            
+            {
+                "Classification": "12003",
+                "Count": "1",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "卫裤运动裤"
+            },
+            
+            {
+                "Classification": "12039",
+                "Count": "1",
+                "FClassification": "1346",
+                "Field": "catid",
+                "Name": "领带领结领带夹"
+            },
+            
+            {
+                "Classification": "12089",
+                "Count": "1",
+                "FClassification": "1342",
+                "Field": "catid",
+                "Name": "羊毛衫"
+            },
+            
+            {
+                "Classification": "12113",
+                "Count": "1",
+                "FClassification": "1463",
+                "Field": "catid",
+                "Name": "其他器械"
+            },
+            
+            {
+                "Classification": "12146",
+                "Count": "1",
+                "FClassification": "1462",
+                "Field": "catid",
+                "Name": "冲浪潜水"
+            },
+            
+            {
+                "Classification": "12425",
+                "Count": "1",
+                "FClassification": "11730",
+                "Field": "catid",
+                "Name": "赠品"
+            },
+            
+            {
+                "Classification": "13664",
+                "Count": "1",
+                "FClassification": "12402",
+                "Field": "catid",
+                "Name": "车险"
+            },
+            
+            {
+                "Classification": "13781",
+                "Count": "1",
+                "FClassification": "13780",
+                "Field": "catid",
+                "Name": "收纳袋包"
+            },
+            
+            {
+                "Classification": "14519",
+                "Count": "1",
+                "FClassification": "14512",
+                "Field": "catid",
+                "Name": "二手羽绒服棉服"
+            },
+            
+            {
+                "Classification": "14932",
+                "Count": "1",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "校服校服定制"
+            },
+            
+            {
+                "Classification": "14933",
+                "Count": "1",
+                "FClassification": "11842",
+                "Field": "catid",
+                "Name": "毛衣针织衫"
+            },
+            
+            {
+                "Classification": "15252",
+                "Count": "1",
+                "FClassification": "15249",
+                "Field": "catid",
+                "Name": "四件套"
+            },
+            
+            {
+                "Classification": "15602",
+                "Count": "1",
+                "FClassification": "14716",
+                "Field": "catid",
+                "Name": "啤酒"
+            },
+            
+            {
+                "Classification": "15657",
+                "Count": "1",
+                "FClassification": "14099",
+                "Field": "catid",
+                "Name": "静电无尘"
+            },
+            
+            {
+                "Classification": "15753",
+                "Count": "1",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "高尔夫毛线衫"
+            },
+            
+            {
+                "Classification": "15807",
+                "Count": "1",
+                "FClassification": "1466",
+                "Field": "catid",
+                "Name": "其他体育用品"
+            },
+            
+            {
+                "Classification": "15920",
+                "Count": "1",
+                "FClassification": "15903",
+                "Field": "catid",
+                "Name": "手套鞋套围裙"
+            },
+            
+            {
+                "Classification": "15992",
+                "Count": "1",
+                "FClassification": "15984",
+                "Field": "catid",
+                "Name": "家庭优惠套装"
+            },
+            
+            {
+                "Classification": "16343",
+                "Count": "1",
+                "FClassification": "16333",
+                "Field": "catid",
+                "Name": "二手夹克风衣"
+            },
+            
+            {
+                "Classification": "17052",
+                "Count": "1",
+                "FClassification": "17040",
+                "Field": "catid",
+                "Name": "冰球训练服"
+            },
+            
+            {
+                "Classification": "17129",
+                "Count": "1",
+                "FClassification": "17122",
+                "Field": "catid",
+                "Name": "拳击"
+            },
+            
+            {
+                "Classification": "21641",
+                "Count": "1",
+                "FClassification": "6264",
+                "Field": "catid",
+                "Name": "人偶BJD兵人"
+            }
+            
+            ],
+            "cid1": [
+            
+            {
+                "Classification": "1315",
+                "Count": "19766",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "服饰内衣"
+            },
+            
+            {
+                "Classification": "1318",
+                "Count": "8465",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "运动户外"
+            },
+            
+            {
+                "Classification": "1672",
+                "Count": "464",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "礼品"
+            },
+            
+            {
+                "Classification": "1319",
+                "Count": "1096",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "母婴"
+            },
+            
+            {
+                "Classification": "6728",
+                "Count": "128",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "汽车用品"
+            },
+            
+            {
+                "Classification": "15901",
+                "Count": "95",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "家庭清洁纸品"
+            },
+            
+            {
+                "Classification": "1620",
+                "Count": "20",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "家居日用"
+            },
+            
+            {
+                "Classification": "9855",
+                "Count": "18",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "家装建材"
+            },
+            
+            {
+                "Classification": "13765",
+                "Count": "15",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "二手商品"
+            },
+            
+            {
+                "Classification": "6233",
+                "Count": "8",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "玩具乐器"
+            },
+            
+            {
+                "Classification": "15248",
+                "Count": "7",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "家纺"
+            },
+            
+            {
+                "Classification": "1713",
+                "Count": "4",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "图书"
+            },
+            
+            {
+                "Classification": "6994",
+                "Count": "4",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "宠物生活"
+            },
+            
+            {
+                "Classification": "14065",
+                "Count": "3",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "工业品"
+            },
+            
+            {
+                "Classification": "11729",
+                "Count": "2",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "鞋靴"
+            },
+            
+            {
+                "Classification": "12473",
+                "Count": "2",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "农资园艺"
+            },
+            
+            {
+                "Classification": "9987",
+                "Count": "1",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "手机通讯"
+            },
+            
+            {
+                "Classification": "12259",
+                "Count": "1",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "酒类"
+            },
+            
+            {
+                "Classification": "15980",
+                "Count": "1",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "京东服务"
+            },
+            
+            {
+                "Classification": "17329",
+                "Count": "1",
+                "FClassification": "0",
+                "Field": "cid1",
+                "Name": "箱包皮具"
+            }
+            
+            ],
+            "cid2": [
+            
+            {
+                "Classification": "1342",
+                "Count": "17236",
+                "FClassification": "1315",
+                "Field": "cid2",
+                "Name": "男装"
+            },
+            
+            {
+                "Classification": "12102",
+                "Count": "6631",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "运动服饰"
+            },
+            
+            {
+                "Classification": "1343",
+                "Count": "2517",
+                "FClassification": "1315",
+                "Field": "cid2",
+                "Name": "女装"
+            },
+            
+            {
+                "Classification": "2615",
+                "Count": "464",
+                "FClassification": "1672",
+                "Field": "cid2",
+                "Name": "奢侈品"
+            },
+            
+            {
+                "Classification": "15700",
+                "Count": "12",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "瑜伽舞蹈"
+            },
+            
+            {
+                "Classification": "2628",
+                "Count": "1699",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "户外鞋服"
+            },
+            
+            {
+                "Classification": "11842",
+                "Count": "1094",
+                "FClassification": "1319",
+                "Field": "cid2",
+                "Name": "童装"
+            },
+            
+            {
+                "Classification": "6747",
+                "Count": "125",
+                "FClassification": "6728",
+                "Field": "cid2",
+                "Name": "安全自驾"
+            },
+            
+            {
+                "Classification": "15907",
+                "Count": "94",
+                "FClassification": "15901",
+                "Field": "cid2",
+                "Name": "皮具护理"
+            },
+            
+            {
+                "Classification": "1466",
+                "Count": "55",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "体育用品"
+            },
+            
+            {
+                "Classification": "12115",
+                "Count": "32",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "骑行运动"
+            },
+            
+            {
+                "Classification": "9858",
+                "Count": "18",
+                "FClassification": "9855",
+                "Field": "cid2",
+                "Name": "五金工具"
+            },
+            
+            {
+                "Classification": "1624",
+                "Count": "17",
+                "FClassification": "1620",
+                "Field": "cid2",
+                "Name": "生活日用"
+            },
+            
+            {
+                "Classification": "12147",
+                "Count": "17",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "垂钓用品"
+            },
+            
+            {
+                "Classification": "15429",
+                "Count": "13",
+                "FClassification": "13765",
+                "Field": "cid2",
+                "Name": "二手男装"
+            },
+            
+            {
+                "Classification": "1346",
+                "Count": "12",
+                "FClassification": "1315",
+                "Field": "cid2",
+                "Name": "服饰配件"
+            },
+            
+            {
+                "Classification": "17342",
+                "Count": "7",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "滑雪运动"
+            },
+            
+            {
+                "Classification": "1462",
+                "Count": "6",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "户外装备"
+            },
+            
+            {
+                "Classification": "15250",
+                "Count": "6",
+                "FClassification": "15248",
+                "Field": "cid2",
+                "Name": "居家布艺"
+            },
+            
+            {
+                "Classification": "7000",
+                "Count": "4",
+                "FClassification": "6994",
+                "Field": "cid2",
+                "Name": "猫狗出行"
+            },
+            
+            {
+                "Classification": "13780",
+                "Count": "3",
+                "FClassification": "1620",
+                "Field": "cid2",
+                "Name": "收纳用品"
+            },
+            
+            {
+                "Classification": "14099",
+                "Count": "3",
+                "FClassification": "14065",
+                "Field": "cid2",
+                "Name": "个人防护"
+            },
+            
+            {
+                "Classification": "17040",
+                "Count": "3",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "冰上运动"
+            },
+            
+            {
+                "Classification": "4997",
+                "Count": "2",
+                "FClassification": "1319",
+                "Field": "cid2",
+                "Name": "妈妈专区"
+            },
+            
+            {
+                "Classification": "6236",
+                "Count": "2",
+                "FClassification": "6233",
+                "Field": "cid2",
+                "Name": "毛绒布艺"
+            },
+            
+            {
+                "Classification": "6237",
+                "Count": "2",
+                "FClassification": "6233",
+                "Field": "cid2",
+                "Name": "娃娃玩具"
+            },
+            
+            {
+                "Classification": "6264",
+                "Count": "2",
+                "FClassification": "6233",
+                "Field": "cid2",
+                "Name": "潮玩动漫"
+            },
+            
+            {
+                "Classification": "11730",
+                "Count": "2",
+                "FClassification": "11729",
+                "Field": "cid2",
+                "Name": "流行男鞋"
+            },
+            
+            {
+                "Classification": "12480",
+                "Count": "2",
+                "FClassification": "12473",
+                "Field": "cid2",
+                "Name": "花卉绿植"
+            },
+            
+            {
+                "Classification": "21810",
+                "Count": "2",
+                "FClassification": "6233",
+                "Field": "cid2",
+                "Name": "儿童玩具枪"
+            },
+            
+            {
+                "Classification": "830",
+                "Count": "1",
+                "FClassification": "9987",
+                "Field": "cid2",
+                "Name": "手机配件"
+            },
+            
+            {
+                "Classification": "1345",
+                "Count": "1",
+                "FClassification": "1315",
+                "Field": "cid2",
+                "Name": "内衣"
+            },
+            
+            {
+                "Classification": "1463",
+                "Count": "1",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "健身训练"
+            },
+            
+            {
+                "Classification": "2577",
+                "Count": "1",
+                "FClassification": "17329",
+                "Field": "cid2",
+                "Name": "功能箱包"
+            },
+            
+            {
+                "Classification": "3259",
+                "Count": "1",
+                "FClassification": "1713",
+                "Field": "cid2",
+                "Name": "文学"
+            },
+            
+            {
+                "Classification": "3262",
+                "Count": "1",
+                "FClassification": "1713",
+                "Field": "cid2",
+                "Name": "艺术"
+            },
+            
+            {
+                "Classification": "3263",
+                "Count": "1",
+                "FClassification": "1713",
+                "Field": "cid2",
+                "Name": "童书"
+            },
+            
+            {
+                "Classification": "3282",
+                "Count": "1",
+                "FClassification": "1713",
+                "Field": "cid2",
+                "Name": "工业技术"
+            },
+            
+            {
+                "Classification": "6743",
+                "Count": "1",
+                "FClassification": "6728",
+                "Field": "cid2",
+                "Name": "美容清洗"
+            },
+            
+            {
+                "Classification": "6745",
+                "Count": "1",
+                "FClassification": "6728",
+                "Field": "cid2",
+                "Name": "汽车装饰"
+            },
+            
+            {
+                "Classification": "12099",
+                "Count": "1",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "运动鞋包"
+            },
+            
+            {
+                "Classification": "12402",
+                "Count": "1",
+                "FClassification": "6728",
+                "Field": "cid2",
+                "Name": "汽车服务"
+            },
+            
+            {
+                "Classification": "14512",
+                "Count": "1",
+                "FClassification": "13765",
+                "Field": "cid2",
+                "Name": "二手户外鞋服"
+            },
+            
+            {
+                "Classification": "14716",
+                "Count": "1",
+                "FClassification": "12259",
+                "Field": "cid2",
+                "Name": "啤酒"
+            },
+            
+            {
+                "Classification": "15249",
+                "Count": "1",
+                "FClassification": "15248",
+                "Field": "cid2",
+                "Name": "床上用品"
+            },
+            
+            {
+                "Classification": "15903",
+                "Count": "1",
+                "FClassification": "15901",
+                "Field": "cid2",
+                "Name": "清洁用具"
+            },
+            
+            {
+                "Classification": "15984",
+                "Count": "1",
+                "FClassification": "15980",
+                "Field": "cid2",
+                "Name": "京东特色服务"
+            },
+            
+            {
+                "Classification": "16333",
+                "Count": "1",
+                "FClassification": "13765",
+                "Field": "cid2",
+                "Name": "二手运动服饰"
+            },
+            
+            {
+                "Classification": "17122",
+                "Count": "1",
+                "FClassification": "1318",
+                "Field": "cid2",
+                "Name": "武术搏击"
+            }
+            
+            ]
+        },
+        "ObjHotTag": [
+        
+        ],
+        "ObjHotTag2": {
+            "show_tags": [
+            
+            ]
+        },
+        "ObjMidTag": [
+            
+        ],
+        "ObjPicTag": [
+        
+        ],
+        "IndustrialBelt": {
+            "countDes": "",
+            "jump": "",
+            "zone_list": [
+            
+            ]
+        },
+        "Paragraph": [
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/115447/28/5007/99780/5eb18d0aEc5dcd7fd/2b02036da6a5cb58.jpg",
+                "long_image_url": "jfs/t1/119554/34/3702/209634/5eb18e77E2615181b/4abf045d75f6a06c.jpg",
+                "shop_name": "",
+                "warename": "JEEP吉普新品防晒衣男休闲男装薄款夹克防晒服男士夏季外套户外运动男装垂钓服皮肤衣 白5202 L175",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "68531779081",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=37344&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=68531779081&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "1394",
+            "dredisprice": "178.00",
+            "good": "99",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "424522",
+            "productext": "-1879023488",
+            "productext2": "193003523",
+            "shop_id": "35326",
+            "catid": "9730",
+            "vender_id": "37344",
+            "product_id": "14448196826",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+                "59"
+            
+            ],
+            "pfdt": {
+                "t": "5",
+                "m": "2",
+                "j": "9"
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "400",
+            "property_flag": "0",
+            "flags": "4194440",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "178.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "298.00",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899911037064",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "1",
+            "isfanbox": "",
+            "showlog_new": "68531779081,1125899911037064,3054,110,178.000000,1,",
+            "brand_id": "35734",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "JEEP佐力专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/121261/11/1535/92318/5ebd55faE41461578/ccde089bd571de82.jpg",
+                "long_image_url": "jfs/t1/111719/12/6845/105839/5ebd55feE352b9209/226a9cd96162f03c.jpg",
+                "shop_name": "",
+                "warename": "吉普(JEEP)防晒衣男2020夏季纯色印花立领透气速干轻薄夹克外套可收纳男士防晒服皮肤衣男 白色（连帽） XL180",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "45765968706",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=739963&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=45765968706&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "1693",
+            "dredisprice": "189.00",
+            "good": "99",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "424522",
+            "productext": "-1879023488",
+            "productext2": "4479582211",
+            "shop_id": "735004",
+            "catid": "9730",
+            "vender_id": "739963",
+            "product_id": "12894443519",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "100",
+                "j": "10",
+                "t": "1",
+                "b": "322669938",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+                "55"
+            
+            ],
+            "pfdt": {
+                "t": "2",
+                "m": "180",
+                "j": "30"
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "200",
+            "property_flag": "0",
+            "flags": "4194440",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "189.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "1",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899911037064",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "45765968706,1125899911037064,2565,110,189.000000,1,",
+            "brand_id": "8840",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "",
+            "lease_type": "",
+            "store_id": "-1",
+            "shop_name": "吉普男装旗舰店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/119097/24/6377/183049/5eba5d28Ee5402eea/5130645f6e09dc01.jpg",
+                "long_image_url": "jfs/t1/119097/24/6377/183049/5eba5d28Ee5402eea/5130645f6e09dc01.jpg",
+                "shop_name": "",
+                "warename": "℘皮尔卡丹旗舰官方店ℑ针夏季男士休闲夹克外套薄款男装帅气防紫外线防晒衣服透气潮男新品织 中蓝 170M",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "69255785690",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=10317967&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=69255785690&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "63",
+            "dredisprice": "339.00",
+            "good": "100",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "424522",
+            "productext": "302014592",
+            "productext2": "184614915",
+            "shop_id": "10180480",
+            "catid": "9730",
+            "vender_id": "10317967",
+            "product_id": "14510375651",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+            ],
+            "pfdt": {
+                "t": "",
+                "m": "",
+                "j": ""
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "800",
+            "property_flag": "0",
+            "flags": "6291592",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "tpp",
+                "p": "339.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "322.00",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899913134216",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "69255785690,1125899913134216,3050,110,339.000000,1,",
+            "brand_id": "13940",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "皮尔卡丹怿辰专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/107624/17/11168/70909/5e85805cEa106fe7b/29e41cb0d04ebf89.jpg",
+                "long_image_url": "jfs/t1/119344/10/1088/261057/5e9412a2Ef9215071/126a535b8a4471a4.jpg",
+                "shop_name": "",
+                "warename": "吉普（JEEP）防晒衣男2020夏季新款户外皮肤衣超薄T恤polo衫风衣防紫外线速干外套夹克男防晒服 fsf58172-灰色 XL",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "66027238945",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=10316667&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=66027238945&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "1047",
+            "dredisprice": "168.00",
+            "good": "99",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "424522",
+            "productext": "-1879023488",
+            "productext2": "184614915",
+            "shop_id": "10176943",
+            "catid": "9730",
+            "vender_id": "10316667",
+            "product_id": "14236921890",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "2",
+            "couponIcon": "",
+            "coupon":{
+                "m": "100",
+                "j": "10",
+                "t": "1",
+                "b": "322669938",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+            ],
+            "pfdt": {
+                "t": "",
+                "m": "",
+                "j": ""
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "600",
+            "property_flag": "0",
+            "flags": "4194440",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "168.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "1",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899911037064",
+            "freeMark": "",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "66027238945,1125899911037064,3049,110,168.000000,1,",
+            "brand_id": "8840",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "Jeep莫旗飞专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/114120/32/9820/222125/5edf2c65Ea372ee3d/1876fd02a0f22464.jpg",
+                "long_image_url": "jfs/t1/114120/32/9820/222125/5edf2c65Ea372ee3d/1876fd02a0f22464.jpg",
+                "shop_name": "",
+                "warename": "防晒衣男女夏季新款情侣款户外皮肤衣冰丝时尚韩版薄轻盈透气速干防晒服男士遮阳防紫外线连帽风衣外套男装 8821灰色 XL",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "70023163538",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=10329724&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=70023163538&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "246",
+            "dredisprice": "79.00",
+            "good": "100",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "0",
+            "productext": "-1879023488",
+            "productext2": "50397187",
+            "shop_id": "10184461",
+            "catid": "9730",
+            "vender_id": "10329724",
+            "product_id": "14575256018",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+            ],
+            "pfdt": {
+                "t": "",
+                "m": "",
+                "j": ""
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "1000",
+            "property_flag": "0",
+            "flags": "4194440",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "79.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899911037064",
+            "freeMark": "",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "70023163538,1125899911037064,3049,0,79.000000,1,",
+            "brand_id": "548790",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "灏天铭匠专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/128408/7/2481/267466/5ec5c944E05e32e56/5844736d7c2e835a.jpg",
+                "long_image_url": "jfs/t1/128408/7/2481/267466/5ec5c944E05e32e56/5844736d7c2e835a.jpg",
+                "shop_name": "",
+                "warename": "纯鄂防晒衣男夏季超薄透气连帽夏天学生渐变外套衫青少年男装防晒服皮肤衣男士上衣户外衣服防风立领夹克 白加浅蓝 XL",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "68758467689",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=663924&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=68758467689&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "348",
+            "dredisprice": "79.00",
+            "good": "99",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "424522",
+            "productext": "302014592",
+            "productext2": "184614915",
+            "shop_id": "659048",
+            "catid": "9730",
+            "vender_id": "663924",
+            "product_id": "14469586322",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "2",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+                "59"
+            
+            ],
+            "pfdt": {
+                "t": "5",
+                "m": "2",
+                "j": "8.5"
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "300",
+            "property_flag": "0",
+            "flags": "23068808",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "79.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899929911432",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "68758467689,1125899929911432,3047,110,79.000000,1,",
+            "brand_id": "244227",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "纯鄂男装旗舰店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/116230/37/5827/88451/5eb61634Ee407a0b6/6035e791b2c7d29b.jpg",
+                "long_image_url": "jfs/t1/116230/37/5827/88451/5eb61634Ee407a0b6/6035e791b2c7d29b.jpg",
+                "shop_name": "",
+                "warename": "吉普（JEEP）防晒服男夏季新品 2020夏季薄款透气皮肤衣立领夹克男外套防晒衣透气 5202灰色(带帽) L(建议体重:120-135斤)",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "69108128712",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=10317395&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=69108128712&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "410",
+            "dredisprice": "178.00",
+            "good": "99",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "0",
+            "productext": "268460160",
+            "productext2": "184614915",
+            "shop_id": "10177857",
+            "catid": "9730",
+            "vender_id": "10317395",
+            "product_id": "14497960932",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "128",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+                "59"
+            
+            ],
+            "pfdt": {
+                "t": "5",
+                "m": "2",
+                "j": "8.8"
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "1000",
+            "property_flag": "0",
+            "flags": "4194440",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "178.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899911037064",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "69108128712,1125899911037064,3045,110,178.000000,1,",
+            "brand_id": "8840",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "吉普诺优品专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/127291/25/2216/391380/5ec396bfE41d1f8b1/63db427160492b2e.jpg",
+                "long_image_url": "jfs/t1/127291/25/2216/391380/5ec396bfE41d1f8b1/63db427160492b2e.jpg",
+                "shop_name": "",
+                "warename": "富贵鸟防晒衣男2020夏季新款超薄透气韩版休闲纯色防晒服男女青年运动户外皮肤衣外套男 白色 XL",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "69544892921",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=10385232&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=69544892921&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "107",
+            "dredisprice": "98.00",
+            "good": "99",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "0",
+            "productext": "-1879023488",
+            "productext2": "50397187",
+            "shop_id": "10237082",
+            "catid": "9730",
+            "vender_id": "10385232",
+            "product_id": "14535829876",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+                "59"
+            
+            ],
+            "pfdt": {
+                "t": "5",
+                "m": "2",
+                "j": "9"
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "400",
+            "property_flag": "0",
+            "flags": "4194440",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "98.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899911037064",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "69544892921,1125899911037064,3044,1,98.000000,1,",
+            "brand_id": "7167",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "富贵鸟灰檬专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/112028/32/9337/185812/5ed8b19eEcfdb00a9/0242b49b3b8fb6b8.jpg",
+                "long_image_url": "",
+                "shop_name": "",
+                "warename": "新佐伦防晒衣男夏季户外连帽风衣皮肤衣男女款小菊花印花超薄透气速干情侣防晒服遮阳夹克外套 天蓝色 XL",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "69142357890",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=53932&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=69142357890&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "513",
+            "dredisprice": "118.00",
+            "good": "100",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "0",
+            "productext": "268460160",
+            "productext2": "167837699",
+            "shop_id": "50157",
+            "catid": "9730",
+            "vender_id": "53932",
+            "product_id": "14500421776",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "100",
+                "j": "10",
+                "t": "1",
+                "b": "322669938",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+            ],
+            "pfdt": {
+                "t": "",
+                "m": "",
+                "j": ""
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "300",
+            "property_flag": "0",
+            "flags": "20971656",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "118.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899927814280",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "69142357890,1125899927814280,3043,110,118.000000,1,",
+            "brand_id": "49655",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "新佐伦旗舰店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        },
+        
+        {
+            "Content" : {
+                "author": "",
+                "imageurl": "jfs/t1/131291/14/211/94820/5eca2870E4b100827/d608aa7d3cd61307.jpg",
+                "long_image_url": "jfs/t1/118498/33/8135/118088/5eca2892Ec94fa233/e727684136a03dc7.jpg",
+                "shop_name": "",
+                "warename": "JEEP吉普 防晒衣男夏季新品超薄透气男士夹克外套户外休闲钓鱼服速干薄款宽松皮肤衣防晒服加肥加大码 灰色 XL 建议体重130-150斤",
+                "CustomAttrList" : "",
+                "CustomAttrListNew" : "",
+                "shortWarename" : "",
+                "gaiyawarename" : "",
+                "extname" : ""
+            },
+            "wareid": "69406459714",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=96450&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=69406459714&_fd=jdw",
+            "cid1": "1315",
+            "cid2": "1342",
+            "commentcount": "94",
+            "dredisprice": "178.00",
+            "good": "100",
+            "hotscore": "8.",
+            "hprice": "",
+            "ico": "0",
+            "productext": "-1845469056",
+            "productext2": "184614915",
+            "shop_id": "94162",
+            "catid": "9730",
+            "vender_id": "96450",
+            "product_id": "14523802592",
+            "discountIcon": "",
+            "promotion_id": "",
+            "promotion_type": "0",
+            "couponIcon": "",
+            "coupon":{
+                "m": "0",
+                "j": "0",
+                "t": "0",
+                "b": "0",
+                "d": {
+                    "high": "",
+                    "info": [
+                        
+                    ]
+                }
+            },
+            "pf": [
+            
+                "59"
+            
+            ],
+            "pfdt": {
+                "t": "5",
+                "m": "2",
+                "j": "9"
+            },
+            "fqy": "0",
+            "pfex": {
+                "plus95": ""
+            }, 
+            "feature_log": "",
+            "lowestbuy": "0",
+            "wareWeight": "300",
+            "property_flag": "0",
+            "flags": "6291592",
+            "sendService": "0",
+            "isActualServ": "0",
+            "sku_mark": "0",
+            "venderType": "0",
+            "bjssy": "0",
+            "oldWareInfo": {
+                "old_min_price": ""
+            },
+            "secKill": {
+                "status": ""
+            },
+            "pinGou": {
+                "bp": "",
+                "count": ""
+            },
+            "prize": {
+                "title": "",
+                "content": ""
+            },
+            "priceReal": {
+                "up": "",
+                "p": "178.00",
+                "tkp": "",
+                "sp": "",
+                "tpp": "",
+                "l": "258.00",
+                "cbf": "0",
+                "nup": "",
+                "sdp": "",
+                "sfp": "",
+                "app": ""
+            },
+            "jxLive": {
+                "showLabel": "0",
+                "userPic": ""
+            },
+            "is_video": "",
+            "isSeptax": "",
+            "userPsnProductNew": "1125899913134216",
+            "freeMark": "3",
+            "isFreeLoad": "0",
+            "good_shop": "",
+            "isfanbox": "",
+            "showlog_new": "69406459714,1125899913134216,3040,110,178.000000,1,",
+            "brand_id": "8840",
+            "sxzz": "",
+            "wareInStock ": "1",
+            "jzfp": "0",
+            "award": "",
+            "decoration": "",
+            "isOverSea": "0",
+            "lease_type": "0",
+            "store_id": "-1",
+            "shop_name": "吉普欧君专卖店",
+            "isnoZY": "",
+            "isNSNGgoods": "",
+            "pps": "",
+            "store_address": "",
+            "store_distance": "",
+            "carTag": "",
+            "isStoreOnSale": "0",
+            "isbjp": "0",
+            "jpLabel": "",
+            "axg": "0",
+            "fxg": "1",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "usedSPLX": "0",
+            "fanxianType": "",
+            "bybt": "",
+            "plusVender": "0",
+            "isPlusLimit": "0",
+            "jx_free": "0",
+            "dsale_status": "0",
+            "jx_zone_info": "",
+            "fact_video_id": "0",
+            "isFreeServ": "",
+            "xxtk": "0"
+        }
+        
+        ],
+        "BkParagraph": [
+            
+        ]
+    },
+    "pgParagraph": [],
+    "adpos": {
+        "data":[
+        
+        {
+            "exposal_url": "https://im-x.jd.com/dsp/np?log=9S8l_ERWOwGfg_ip-gqM0UaNFHrjK4iRRz_QU-x5GEk5P8rfmntwrUyBASNQdxn54VaEyalgzQcO_zKQFB49pC7obi40-D4_Ux4GimOvvQaEmf3QCywoZt7Nt4RMa6Ndsz_mb8me_KcXxXowGISE94iYcUQRI_quAFBIQUBg6vnX0aULiqZ9TkTe6WrS2L-uHMw15Q0nZlCx2Mf8qgPZsdvD_wy1sNg2y4LYy1aT5crdTmzLURWKITrDT0sUF33fcnP4ClML-Ljcz5ENKr4IvkakF-IUd32D0GbaADLFqI9uZWeZhw1Fw-LDC2j2a1KPmTDhZM-3X97W0wFt9fM19ma6uYbOKN9Kr9tXmO0EsuX6gkqMCD5J5A-GSzT7HmQMbLZeqNRQhCk9BNZoUn-XvNUhbH3BHgsNAXSFyOg_C_mHLzeVbSAH9FJxL7Kr3E4xVgN15zzOBFTXogSEiTEtvjgO8lzhlaM4N7KdJ6xvnc_MKm-EUiEdm70SXjt8XSJTzxaZIDVmONDf71u8ZvLAhb2sIuquU1LjStMI7Wkaq5BQIgggnf3RT2Bb8_8ne2-kA6fqGdGnClfnkhufrvnjKDvPJR0hl0ihORplg_a3M4s-FDHlKd_yF89djxrtybTZq8vpQMB9msAhNgaDoFewfQbogqu9DkPDFNFYEnNOCN1OH3qLsDqhznvRSPgfSkR8G2JsQDXJfwVLgltfAELOanf_YoE3fLPLuxB-TOYjpqRMi3qHx7Bhero1i7NC8TZHt69knPuoqVuvpTlsJ-Qccn95iYBK5iln6YpApnnkSs9cFyoV8Urmp6_43XsHHwWNuKUsGnFRqtpSBbYaxDzlvs1N_xnJQzaP7wZnBA-hQns&v=404&rt=3",
+            "unreal_exposal_url": "",
+            "good_rate": "100",
+            "sku_cid3": "9730",
+            "image_url": "jfs/t1/124882/32/4397/169417/5eddb996Ec2af5cfd/7392f338838bfec0.jpg",
+            "comment_num": "49",
+            "long_image_url": "jfs/t1/124882/32/4397/169417/5eddb996Ec2af5cfd/7392f338838bfec0.jpg",
+            "click_url": "https://ccc-x.jd.com/dsp/nc?ext=aHR0cDovL3dxaXRlbS5qZC5jb20vaXRlbS92aWV3P3NrdT00MTk2MzcyOTY1NQ&log=9S8l_ERWOwGfg_ip-gqM0UaNFHrjK4iRRz_QU-x5GEk5P8rfmntwrUyBASNQdxn54VaEyalgzQcO_zKQFB49pC7obi40-D4_Ux4GimOvvQaEmf3QCywoZt7Nt4RMa6Ndsz_mb8me_KcXxXowGISE94iYcUQRI_quAFBIQUBg6vnX0aULiqZ9TkTe6WrS2L-uHMw15Q0nZlCx2Mf8qgPZsdvD_wy1sNg2y4LYy1aT5cqt6bYiUOKdk6ilGw00rwPa5HzkP0XHy8rqZXnpD_BMvb1Gz7cn0BgtbZWB9NgiioiIPhi8dt8YlNqSeOH9fNB2K7R0wfmUjnk5TLt_cWJgDKqGJInoZO3VeVj_JNv-p9NA2NSE6tLnlw66BC-M853uLafXIyvHGt0vpe6delqrkgjFF2zXM2Zz5YKHVts9Q3eBVnM-7l6mxndizIJfSqjwfqAABwgVhZlCAUmtNU6poWk1-HEawmzHF5OXDbGzxQP07V8oY7XSqQ-1YDSMcqQnLhZFsbfnPzmR2Ih7O8WVRMEtf47xvwB5rOffhhYG_dGUYXmsIC9fBf2GhxIJ4b_mUD8RMOw7hXblrsnYMJMKaVoiqcIBIMaBkUH3uz_T6Cd182_u44VefUdo3FB8W3EomNS87foSBzcIInx36k8IcnoFKccLOMdZmQATAa_d0vylDXmob5ky2kqe8_1XUqClpXTnsFDh9JjHe6D7lmcTdWkDcmhsxlbeguxR4QeeHLibuI3r0z4QvURyoZBik7rLpg8zVBo1nccqVaxghCjXqoBHEQC8_VM2U8RpHsae2umZsNHbklT-p7dlU1AtsUocVmwvAEwWIVI5w2514GuZFg&v=404",
+            "click_url_redirected": "1",
+            "flow_order": "3",
+            "ad_title": "吉普2020春季新款男士美式休闲宽松纯色夹克单外套纯棉JS9WJ052商场同款 深蓝色K9 48",
+            "pg_price": "",
+            "pg_count": "",
+            "vender_id": "152174",
+            "shop_id": "147228",
+            "sku_id": "41963729655",
+            "spu_id": "41963729654",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=152174&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=41963729655&_fd=jdw",
+            "worldwide": "1",
+            "self_run": "0",
+            "shop_link": {
+                "shop_name": "JEEP华佰专卖店",
+                "good_shop": "0"
+            },
+            "sku_benefit": {
+                "b2048": [
+                
+                ],
+                "b256": [
+                
+                {
+                    "desc": "大促",
+                    "icon_id": "424522"
+                }
+                
+                ],
+                "b32": [
+                
+                ],
+                "b4": [
+                
+                ]
+            },
+            "ad_smart_title": "",
+            "ad_highlight": "",
+            "ad_attribute": "",
+            "ad_price": "560",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianType": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "bybt": "",
+            "dsale_status": ""
+        },
+        
+        {
+            "exposal_url": "https://im-x.jd.com/dsp/np?log=9S8l_ERWOwGfg_ip-gqM0UaNFHrjK4iRRz_QU-x5GEmR32R54ZSD6vUyTh39MQn3GAunRmkmPuxMlvy63Kn3U6kAY-Otov5To6ICRfgFL8eUIXXzKXZXEPx_R-6GKPUEEZZtZJNlUU8c05Vd_KYpkymXqTCTGjP-jqScmJVa2LRFIVZnA3nbatp__yW78B3RrSloUp67RHToyqv3X1wVG6z2UZxPk9_-fKRudOlufudJW4F6x0pCeJNMu-yRKZyvgk0ZjcYUfaGEjSthGwaTBnbkBt84TDKOEsaVQWt9eW0IwriTX-sUH5qrvFY7sn3uEearhVdxBLcSkOdE3f4P4PKwA_vvAMccjwYzxrCyd5F6S3wxEqtqAA_jdPc85Qp8bByNJ44fHZ5Mn3SJ2P6httrmD33AaqePrPIz9CN_Lk6VRG9bhkBkkIR9QoFeTH8Un-PjDdhQIEBpBHXS-HSWGSktRev8yihf1bUKearH_nVG9-7maKfGnccIigl75lpF6aAC1-XxZzSCqyQH9CXgPwGUF8HkDD2ybqcBRxzsTLEwBYEi1ZvJCB5o7DjUUzwywwQ9jTio3RMJRzmbrO3EOyE02-52SJL-Ayvm8QMYLJKKQA0qXk76okgrLC7-ICb3UHixy9QMVpHhRTD5RVJgpIJhBSKOJoj8OTmKZ849HvLJnSeclfk38Zd9aaI1RW4WtymI64iJCoqmK19qHhpTFkMW0sUj7VBBLZ3oE5wCpMhYxpRrFPxvtqa1-N_C_ZmzdFmv322K-fCIQhJ0RBhJw5MMoAZmt8dU14yMBXhLuWMdhJZbym9VmJJVmKT-vXWCd1XaxE0fVceRgzAUpquQOYuv8K5SeoPeZ3yA54B42KY&v=404&rt=3",
+            "unreal_exposal_url": "",
+            "good_rate": "97",
+            "sku_cid3": "9730",
+            "image_url": "jfs/t1/135035/9/1709/174666/5eddb9f8E6f6805c3/6f5383ba048b6a30.jpg",
+            "comment_num": "478",
+            "long_image_url": "jfs/t1/135035/9/1709/174666/5eddb9f8E6f6805c3/6f5383ba048b6a30.jpg",
+            "click_url": "https://ccc-x.jd.com/dsp/nc?ext=aHR0cDovL3dxaXRlbS5qZC5jb20vaXRlbS92aWV3P3NrdT0zNDQ4NTU1NTUxNA&log=9S8l_ERWOwGfg_ip-gqM0UaNFHrjK4iRRz_QU-x5GEmR32R54ZSD6vUyTh39MQn3GAunRmkmPuxMlvy63Kn3U6kAY-Otov5To6ICRfgFL8eUIXXzKXZXEPx_R-6GKPUEEZZtZJNlUU8c05Vd_KYpkymXqTCTGjP-jqScmJVa2LRFIVZnA3nbatp__yW78B3RrSloUp67RHToyqv3X1wVG6z2UZxPk9_-fKRudOlufucMvjI8GnQwDAa7bcAXcnc0GXV4tI3G2XjadUI-qkrXYXNhIBm_X7_HDRaQZ463HtpBWA7UGizn9wRVNudT7xsYp4lusGs-tMbNDmxqFOjjAhblr4gLz85M6y3wMO2WUbupZMni03ibPR7GT7UpuNUbYmIKFzsUWbob2tlv-FJJPn4oRBR21CGK6dMBJ8unf1ZM-_xHqE4nvOVdXWAf4g5gnSi7H2rE_U2U7CMliZXgeEhSaVKpuscmfWtXihOj4UHSgWB1HCCCanH1cjMfEyuLVFnDes6Ucd0fStGMxg268motVtmwpf2zni3iDpUdnAfVCD98olWRYb07pW4ujtY3pTlcIlwFLIdy97E_6FcSbyiARiSw9D-WnX6Dg6RFqbO3Umo0UP8mGeTE0kZQJBi59Js1p9irjfsQeB0ZZeAc_BKe8V2hVq9x5dsvUwJS9R8jI_ay7fcaFcwPoU8yzrNcry9l8QlK5qr-dygoY5w97ZWyRN8W9ekrqQijSAMiY9WbgwK4LG03sKEYYlaBBW4VjTJuC-uz1UcSrrc8AonARLYrEgZtK5A92ET_zLb39_7d7UTb-ki26Y9BayE-S_mfuYHmLtKXYrHfdcYtdnVPBd38n9hoEV1DWJro6NNcIH8&v=404",
+            "click_url_redirected": "1",
+            "flow_order": "7",
+            "ad_title": "花花公子外套男2020春秋新款男士薄款夹克休闲时尚修身棒球领男装 黑色 L5",
+            "pg_price": "",
+            "pg_count": "",
+            "vender_id": "724533",
+            "shop_id": "719392",
+            "sku_id": "34485555514",
+            "spu_id": "34485555513",
+            "toShopLink": "https://wq.jd.com/shopv2/wqpage?venderId=724533&_fd=jdw",
+            "toItemLink": "https://wq.jd.com/item/view?sku=34485555514&_fd=jdw",
+            "worldwide": "1",
+            "self_run": "0",
+            "shop_link": {
+                "shop_name": "花花公子追足专卖店",
+                "good_shop": "0"
+            },
+            "sku_benefit": {
+                "b2048": [
+                
+                ],
+                "b256": [
+                
+                {
+                    "desc": "大促",
+                    "icon_id": "424522"
+                }
+                
+                ],
+                "b32": [
+                
+                ],
+                "b4": [
+                
+                ]
+            },
+            "ad_smart_title": "",
+            "ad_highlight": "",
+            "ad_attribute": "",
+            "ad_price": "369",
+            "isPgShop": "",
+            "fanxianPeople": "",
+            "fanxianFuzzyPeople": "",
+            "fanxianPrice": "",
+            "fanxianType": "",
+            "fanxianCash": "",
+            "fanxianLabel": "",
+            "bybt": "",
+            "dsale_status": ""
+        }
+        
+        ],
+        "csid" : "7c5bcd8180cf33c37e84230091b910b8_1591924313822_10_1591924478862",
+        "session_id" : "7c5bcd8180cf33c37e84230091b910b8_1591924313822",
+        "PosAdInfo": {
+            "event_id": "7",
+            "event_id_binary" : "111",
+            "platform": "h5"
+        }
+    },
+    "beltAdpos": [
+        
+    ],
+    "shopadpos": [
+        
+    ],
+    "keyad":{
+        "data":[
+        
+        ]
+    },
+    "weixuan": {
+        "status": "",
+        "total": "",
+        "jmpUrl": "",
+        "imgList": [
+            
+        ]
+    },
+    "rewrite": {
+        "isWrite": "0",
+        "projid": "0",
+        "experimentid": "0",
+        "ruleid": "0",
+        "isSortWrite": "0",
+        "sortExpid": "0",
+        "sortRuleid": "0",
+        "sortCatid": "0",
+        "hasSkuTop": "0"
+    },
+    "writerBrief": {
+        "id": "",
+        "name": "",
+        "brief": "",
+        "photo": "",
+        "origin": "",
+        "yfb": ""
+    },
+    "default_addr": "",
+    "bi_resort": "",
+    "sou_debug": "",
+    "plusMemberType": "0",
+    "realPlusMemberType": "0",
+    "grayjx": "0",
+    "yhyx": "1",
+    "fastSend": "0",
+    "fanxianSelect": "0",
+    "adPosId": "782",
+    "bkDataFrom": "0",
+    "middlePriceSite": "",
+    "middlePriceText": ""
+}
+}
